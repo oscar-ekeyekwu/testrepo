@@ -1,1 +1,3 @@
-function(){ alert('Hi Oscar');}
+function alert(){
+ alert('Hi Oscar');
+}
